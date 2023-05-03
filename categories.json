@@ -1,0 +1,171 @@
+{
+    "drinks": {
+      "id": 1,
+      
+      "name": "Drinks",
+      "created_at": "2021-07-24T12:08:13.000000Z",
+      "updated_at": "2021-07-24T12:08:18.000000Z",
+      "primary_icon": "http://192.168.1.9:8000/storage/parent_category_pic/a72e98a3-ec49-11eb-954f-04d9f5ae5893/drinksIconPrimary.svg",
+      "secondary_icon": "http://192.168.1.9:8000/storage/parent_category_pic/a72e98a3-ec49-11eb-954f-04d9f5ae5893/drinksIconSecondary.svg",
+      "type": "0",
+      "categories": [
+        {
+          "id": "2374fb2d-777c-4fdc-aecd-8151202df023",
+          
+          "parent_id": "1",
+          "name": "Water",
+          "pic": "http://192.168.1.9:8000/storage/category_pic/2374fb2d-777c-4fdc-aecd-8151202df023/a6403ddff47b08c5a267f773dd04d034.png",
+          "created_at": "2021-09-17T12:07:51.000000Z",
+          "updated_at": "2023-05-01T13:02:24.000000Z",
+          "webp": "http://192.168.1.9:8000/storage/category_pic/2374fb2d-777c-4fdc-aecd-8151202df023/a6403ddff47b08c5a267f773dd04d034.webp",
+          "thumbnail_png": "http://192.168.1.9:8000/storage/category_pic/2374fb2d-777c-4fdc-aecd-8151202df023/a6403ddff47b08c5a267f773dd04d034_thumb.png",
+          "thumbnail_webp": "http://192.168.1.9:8000/storage/category_pic/2374fb2d-777c-4fdc-aecd-8151202df023/a6403ddff47b08c5a267f773dd04d034_thumb.webp",
+          "priority": 0,
+          "total_products": 3,
+          "sorted_products": [
+            "15f01cf7-6a10-4f20-b6c1-cef6fa85da50",
+            "756a14d8-a483-464e-a4df-1c09980b7f94",
+            "cc3b8ded-8393-4129-892f-c68eb9ff671d"
+          ]
+        },
+        {
+          "id": "6856262c-c1cc-4d0c-b409-ea5d1d4c6411",
+          
+          "parent_id": "1",
+          "name": "Soft drinks",
+          "pic": "http://192.168.1.9:8000/storage/category_pic/6856262c-c1cc-4d0c-b409-ea5d1d4c6411/3446ff23d9cbeb611e5d10aba8590deb.png",
+          "created_at": "2021-08-19T12:49:54.000000Z",
+          "updated_at": "2023-05-01T13:02:24.000000Z",
+          "webp": "http://192.168.1.9:8000/storage/category_pic/6856262c-c1cc-4d0c-b409-ea5d1d4c6411/3446ff23d9cbeb611e5d10aba8590deb.webp",
+          "thumbnail_png": "http://192.168.1.9:8000/storage/category_pic/6856262c-c1cc-4d0c-b409-ea5d1d4c6411/3446ff23d9cbeb611e5d10aba8590deb_thumb.png",
+          "thumbnail_webp": "http://192.168.1.9:8000/storage/category_pic/6856262c-c1cc-4d0c-b409-ea5d1d4c6411/3446ff23d9cbeb611e5d10aba8590deb_thumb.webp",
+          "priority": 1,
+          "total_products": 3,
+          "sorted_products": [
+            "9f12b02d-f034-423c-bda4-ad695b810427",
+            "02a162e3-edf3-47c4-bf5b-940a759262fc",
+            "007fe886-6cb5-4f98-9e0e-84dbbd503c5c"
+          ]
+        },
+        {
+          "id": "b9e8ccd0-b538-43bf-a70d-c8be72ded1f1",
+          
+          "parent_id": "1",
+          "name": "Bear",
+          "pic": "http://192.168.1.9:8000/storage/category_pic/b9e8ccd0-b538-43bf-a70d-c8be72ded1f1/fad17a988f6ec9dc5b64d78b25b29db6.png",
+          "created_at": "2021-08-19T12:49:22.000000Z",
+          "updated_at": "2023-05-01T13:02:24.000000Z",
+          "webp": "http://192.168.1.9:8000/storage/category_pic/b9e8ccd0-b538-43bf-a70d-c8be72ded1f1/fad17a988f6ec9dc5b64d78b25b29db6.webp",
+          "thumbnail_png": "http://192.168.1.9:8000/storage/category_pic/b9e8ccd0-b538-43bf-a70d-c8be72ded1f1/fad17a988f6ec9dc5b64d78b25b29db6_thumb.png",
+          "thumbnail_webp": "http://192.168.1.9:8000/storage/category_pic/b9e8ccd0-b538-43bf-a70d-c8be72ded1f1/fad17a988f6ec9dc5b64d78b25b29db6_thumb.webp",
+          "priority": 2,
+          "total_products": 4,
+          "sorted_products": [
+            "49e225d2-f4d8-4748-8576-8c94c14de1b5",
+            "53c89391-aa0d-4a96-958a-674e2e79a9c0",
+            "3a0bc100-afe3-495c-bb50-644a0a1cd823",
+            "9f12b02d-f034-423c-bda4-ad695b810427"
+          ]
+        },
+        {
+          "id": "fdb6ff45-10e5-479e-947e-56e27d209390",
+          
+          "parent_id": "1",
+          "name": "Others",
+          "pic": "http://192.168.1.9:8000/storage/category_pic/fdb6ff45-10e5-479e-947e-56e27d209390/284f9b8e9aa0f63750ddfebe427086e0.png",
+          "created_at": "2023-03-02T08:41:29.000000Z",
+          "updated_at": "2023-05-01T13:02:24.000000Z",
+          "webp": "http://192.168.1.9:8000/storage/category_pic/fdb6ff45-10e5-479e-947e-56e27d209390/284f9b8e9aa0f63750ddfebe427086e0.webp",
+          "thumbnail_png": "http://192.168.1.9:8000/storage/category_pic/fdb6ff45-10e5-479e-947e-56e27d209390/284f9b8e9aa0f63750ddfebe427086e0_thumb.png",
+          "thumbnail_webp": "http://192.168.1.9:8000/storage/category_pic/fdb6ff45-10e5-479e-947e-56e27d209390/284f9b8e9aa0f63750ddfebe427086e0_thumb.webp",
+          "priority": 3,
+          "total_products": 0,
+          "sorted_products": []
+        }
+      ]
+    },
+    "food": {
+      "id": 2,
+      
+      "name": "Food",
+      "created_at": "2021-07-24T12:08:23.000000Z",
+      "updated_at": "2021-07-24T12:08:26.000000Z",
+      "primary_icon": "http://192.168.1.9:8000/storage/parent_category_pic/a72ec9f3-ec49-11eb-954f-04d9f5ae5893/foodIconPrimary.svg",
+      "secondary_icon": "http://192.168.1.9:8000/storage/parent_category_pic/a72ec9f3-ec49-11eb-954f-04d9f5ae5893/foodIconSecondary.svg",
+      "type": "0",
+      "categories": [
+        {
+          "id": "c4869a5d-16e9-462d-814a-96105668324c",
+          
+          "parent_id": "2",
+          "name": "Others",
+          "pic": "http://192.168.1.9:8000/storage/category_pic/c4869a5d-16e9-462d-814a-96105668324c/3622e10aa354a9ba0dfa628dea0ea627.png",
+          "created_at": "2023-03-01T11:13:06.000000Z",
+          "updated_at": "2023-05-01T11:55:57.000000Z",
+          "webp": "http://192.168.1.9:8000/storage/category_pic/c4869a5d-16e9-462d-814a-96105668324c/3622e10aa354a9ba0dfa628dea0ea627.webp",
+          "thumbnail_png": "http://192.168.1.9:8000/storage/category_pic/c4869a5d-16e9-462d-814a-96105668324c/3622e10aa354a9ba0dfa628dea0ea627_thumb.png",
+          "thumbnail_webp": "http://192.168.1.9:8000/storage/category_pic/c4869a5d-16e9-462d-814a-96105668324c/3622e10aa354a9ba0dfa628dea0ea627_thumb.webp",
+          "priority": 0,
+          "total_products": 0,
+          "sorted_products": []
+        },
+        {
+          "id": "596a52cf-7fd0-4216-b01b-f299fa009058",
+          
+          "parent_id": "2",
+          "name": "Chips",
+          "pic": "http://192.168.1.9:8000/storage/category_pic/596a52cf-7fd0-4216-b01b-f299fa009058/a46caf8ffd989aa45b87127be7a98920.png",
+          "created_at": "2021-08-19T12:51:16.000000Z",
+          "updated_at": "2023-05-01T11:55:57.000000Z",
+          "webp": "http://192.168.1.9:8000/storage/category_pic/596a52cf-7fd0-4216-b01b-f299fa009058/a46caf8ffd989aa45b87127be7a98920.webp",
+          "thumbnail_png": "http://192.168.1.9:8000/storage/category_pic/596a52cf-7fd0-4216-b01b-f299fa009058/a46caf8ffd989aa45b87127be7a98920_thumb.png",
+          "thumbnail_webp": "http://192.168.1.9:8000/storage/category_pic/596a52cf-7fd0-4216-b01b-f299fa009058/a46caf8ffd989aa45b87127be7a98920_thumb.webp",
+          "priority": 1,
+          "total_products": 4,
+          "sorted_products": [
+            "e4839f26-24a0-4fc0-9f61-cb4199856339",
+            "be91f31e-b9ea-4aed-baad-594e826d6c4d",
+            "4999ca13-b440-486d-a846-b5c14c7caafd",
+            "a88977db-f581-40e0-ab87-fb04c0cc4880"
+          ]
+        },
+        {
+          "id": "cac62e52-1a0d-4400-9603-a36a052d1d8e",
+          
+          "parent_id": "2",
+          "name": "Pies",
+          "pic": "http://192.168.1.9:8000/storage/category_pic/cac62e52-1a0d-4400-9603-a36a052d1d8e/d3f4a2b8361eea50af1b092795df88b8.png",
+          "created_at": "2021-09-13T10:00:00.000000Z",
+          "updated_at": "2023-05-01T11:55:57.000000Z",
+          "webp": null,
+          "thumbnail_png": "http://192.168.1.9:8000/storage/category_pic/cac62e52-1a0d-4400-9603-a36a052d1d8e/d3f4a2b8361eea50af1b092795df88b8_thumb.png",
+          "thumbnail_webp": null,
+          "priority": 2,
+          "total_products": 2,
+          "sorted_products": [
+            "a88977db-f581-40e0-ab87-fb04c0cc4880",
+            "7266c87a-4f4e-4d08-90aa-1e2516591477"
+          ]
+        },
+        {
+          "id": "996bc734-6e96-486e-b8eb-7f9fca12dfe0",
+          
+          "parent_id": "2",
+          "name": "Sushi",
+          "pic": "http://192.168.1.9:8000/storage/category_pic/996bc734-6e96-486e-b8eb-7f9fca12dfe0/6fe15d84159d16ef95e0a0d18b577017.png",
+          "created_at": "2021-09-13T07:32:21.000000Z",
+          "updated_at": "2023-05-01T11:55:57.000000Z",
+          "webp": "http://192.168.1.9:8000/storage/category_pic/996bc734-6e96-486e-b8eb-7f9fca12dfe0/6fe15d84159d16ef95e0a0d18b577017.webp",
+          "thumbnail_png": "http://192.168.1.9:8000/storage/category_pic/996bc734-6e96-486e-b8eb-7f9fca12dfe0/6fe15d84159d16ef95e0a0d18b577017_thumb.png",
+          "thumbnail_webp": "http://192.168.1.9:8000/storage/category_pic/996bc734-6e96-486e-b8eb-7f9fca12dfe0/6fe15d84159d16ef95e0a0d18b577017_thumb.webp",
+          "priority": 3,
+          "total_products": 3,
+          "sorted_products": [
+            "4999ca13-b440-486d-a846-b5c14c7caafd",
+            "7266c87a-4f4e-4d08-90aa-1e2516591477",
+            "c02ff126-380c-49a4-b2d1-c1f7e5db27a8"
+          ]
+        }
+      ]
+    }
+  }
